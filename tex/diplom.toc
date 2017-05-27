@@ -5,6 +5,9 @@
 \contentsline {section}{\numberline {1.1}Вступление}{7}{section.1.1}
 \contentsline {chapter}{\numberline {2}Теоретическая часть}{9}{chapter.2}
 \contentsline {section}{\numberline {2.1}Задача о многомерном рюкзаке}{9}{section.2.1}
-\contentsline {likechapter}{\MakeUppercase {Список литературы}}{10}{section*.4}
-\contentsline {paragraph}{\numberline {А.0.0.0.1}\MakeUppercase {Код программного продукта}}{11}{paragraph.a.A.0.0.0.1}
-\contentsline {likechapter}{\MakeUppercase {Приложение~А\tmspace +\thickmuskip {.2777em}Код программного продукта}}{11}{paragraph.a.A.0.0.0.1}
+\contentsline {section}{\numberline {2.2}Генетические алгоритмы}{10}{section.2.2}
+\contentsline {section}{\numberline {2.3}Выбор этапов}{11}{section.2.3}
+\contentsline {section}{\numberline {2.4}Особенности для даннной задачи}{11}{section.2.4}
+\contentsline {likechapter}{\MakeUppercase {Список литературы}}{12}{section*.4}
+\contentsline {paragraph}{\numberline {А.0.0.0.1}\MakeUppercase {Код программного продукта}}{13}{paragraph.a.A.0.0.0.1}
+\contentsline {likechapter}{\MakeUppercase {Приложение~А\tmspace +\thickmuskip {.2777em}Код программного продукта}}{13}{paragraph.a.A.0.0.0.1}
