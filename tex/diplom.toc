@@ -6,8 +6,9 @@
 \contentsline {chapter}{\numberline {2}Теоретическая часть}{9}{chapter.2}
 \contentsline {section}{\numberline {2.1}Задача о многомерном рюкзаке}{9}{section.2.1}
 \contentsline {section}{\numberline {2.2}Генетические алгоритмы}{10}{section.2.2}
-\contentsline {section}{\numberline {2.3}Этапы работы алгоритма}{11}{section.2.3}
-\contentsline {section}{\numberline {2.4}Выбор этапов}{12}{section.2.4}
+\contentsline {subsection}{\numberline {2.2.1}Этапы работы алгоритма}{11}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Выбор этапов}{12}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Дополнения алгоритма}{13}{subsection.2.2.3}
 \contentsline {likechapter}{\MakeUppercase {Список литературы}}{14}{section*.4}
 \contentsline {paragraph}{\numberline {А.0.0.0.1}\MakeUppercase {Код программного продукта}}{15}{paragraph.a.A.0.0.0.1}
 \contentsline {likechapter}{\MakeUppercase {Приложение~А\tmspace +\thickmuskip {.2777em}Код программного продукта}}{15}{paragraph.a.A.0.0.0.1}
