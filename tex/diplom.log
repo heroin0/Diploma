@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/W32TeX) (preloaded format=xelatex 2017.3.22)  27 MAY 2017 11:00
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/W32TeX) (preloaded format=xelatex 2017.3.22)  29 MAY 2017 19:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1260,17 +1260,24 @@ Overfull \hbox (3.5644pt too wide) in paragraph at lines 27--33
 ен-
  []
 
-[10]
+[10] [11]
+Overfull \hbox (3.40498pt too wide) in paragraph at lines 58--63
+\l_fontspec_font В ходе работы было реализовано несколько алгоритмов мутации и 
+скре-
+ []
 
-LaTeX Warning: Reference `Valid' on page 11 undefined on input line 46.
+[12])
+Underfull \hbox (badness 10000) in paragraph at lines 72--198
 
-) [11] (./literature.tex) [12]
+ []
+
+[13] (./literature.tex) [14]
 (c:/texlive/2016/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 ) (./Case.cs)
 
 AED: lastpage setting LastPage
-[13
+[15
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 217.
@@ -1278,21 +1285,14 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 217.
  (./diplom.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 217.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 217.
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
  29112 strings out of 493591
  495776 string characters out of 6146794
- 559827 words of memory out of 5000000
+ 559793 words of memory out of 5000000
  32153 multiletter control sequences out of 15000+600000
  8226 words of font info for 57 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
  53i,13n,92p,10410b,1424s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on diplom.pdf (9 pages).
+Output written on diplom.pdf (11 pages).
