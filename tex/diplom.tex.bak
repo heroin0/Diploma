@@ -191,9 +191,11 @@
 \newpage\input{abstract}
 \newpage\tableofcontents
 %\newpage\input{abbreviations}
-%\newpage\input{intro}
-\includechapter{TestChapter}
+\newpage\input{intro}
+%\includechapter{TestChapter}
 \includechapter{FirstChapter}
+\includechapter{SecondChapter}
+
 %\newpage\input{conclusions}
 \newpage\input{literature}
 
