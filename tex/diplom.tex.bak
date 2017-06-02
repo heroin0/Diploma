@@ -196,8 +196,10 @@
 \includechapter{FirstChapter}
 \includechapter{SecondChapter}
 
-\newpage\input{conclusions}
-\newpage\input{literature}
+\newpage
+\input{conclusions}
+\newpage
+\input{literature}
 
 \addtocounter{totfigures}{\value{figure}}
 \addtocounter{tottables}{\value{table}}

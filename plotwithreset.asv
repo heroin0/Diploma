@@ -1,5 +1,0 @@
-clear;
-clc;
-load plotwithreset.txt;
-plot(plotwithreset);
-title('Алгоритм с пере')

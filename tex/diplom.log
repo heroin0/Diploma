@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/W32TeX) (preloaded format=xelatex 2017.3.22)  2 JUN 2017 22:18
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/W32TeX) (preloaded format=xelatex 2017.3.22)  3 JUN 2017 03:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1262,9 +1262,86 @@ Overfull \hbox (7.14914pt too wide) in paragraph at lines 5--7
 ость. 
  []
 
-) [13
 
-] (./conclusions.tex) [14] (./literature.tex
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 \\Р
+         ассмотрим результаты работы алгорит...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[13
+
+]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 30.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 47.
+
+
+! Package array Error:  Illegal pream-token (с): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.51 \begin{tabular}{|с|с|с|}
+                                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package array Error:  Illegal pream-token (с): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.51 \begin{tabular}{|с|с|с|}
+                                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package array Error:  Illegal pream-token (с): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.51 \begin{tabular}{|с|с|с|}
+                                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 64.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.81 \\П
+         оловинная мутация в контексте данно�...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[14]) [15] (./conclusions.tex) [16] (./literature.tex
 Underfull \hbox (badness 10000) in paragraph at lines 17--19
 []\l_fontspec_font P.C.Chu and J.E.Beasley "A genetic algorithm for the
  []
@@ -1274,30 +1351,34 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--28
 []\l_fontspec_font Gilmore, P.C. and R.E. Gomory. (1966). “The Theory and
  []
 
-) [15] (c:/texlive/2016/texmf-dist/tex/latex/listings/lstlang1.sty
+) [17] (c:/texlive/2016/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 ) (./Case.cs) 
 AED: lastpage setting LastPage
-[16
+[18
 
 ]
 
 Package caption Warning: Unused \captionsetup[figure] on input line 44.
 See the caption package documentation for explanation.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 219.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 219.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 221.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 221.
 (./diplom.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 219.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 219.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 221.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 221.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 29119 strings out of 493591
- 495764 string characters out of 6146794
- 559687 words of memory out of 5000000
- 32160 multiletter control sequences out of 15000+600000
+ 29122 strings out of 493591
+ 495797 string characters out of 6146794
+ 559805 words of memory out of 5000000
+ 32163 multiletter control sequences out of 15000+600000
  8210 words of font info for 55 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
  53i,11n,92p,10410b,1424s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on diplom.pdf (12 pages).
+Output written on diplom.pdf (14 pages).
