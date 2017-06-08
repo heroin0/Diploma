@@ -8,14 +8,14 @@
 \contentsline {subsection}{\numberline {1.2.1}Этапы работы алгоритма}{10}{subsection.1.2.1}
 \contentsline {subsection}{\numberline {1.2.2}Выбор этапов}{11}{subsection.1.2.2}
 \contentsline {subsection}{\numberline {1.2.3}Дополнения алгоритма}{12}{subsection.1.2.3}
-\contentsline {chapter}{\numberline {2}Вторая глава}{14}{chapter.2}
+\contentsline {chapter}{\numberline {2}Практическая часть}{14}{chapter.2}
 \contentsline {section}{\numberline {2.1}Наборы тестов}{14}{section.2.1}
 \contentsline {section}{\numberline {2.2}Первый набор тестов}{15}{section.2.2}
 \contentsline {subsection}{\numberline {2.2.1}Мутация в одной позиции}{15}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Инверсионная мутация}{16}{subsection.2.2.2}
-\contentsline {subsection}{\numberline {2.2.3}Промежуточные выводы}{17}{subsection.2.2.3}
-\contentsline {section}{\numberline {2.3}Второй набор тестов}{18}{section.2.3}
-\contentsline {likechapter}{\MakeUppercase {Заключение}}{20}{section*.12}
-\contentsline {likechapter}{\MakeUppercase {������ ����������}}{21}{section*.13}
-\contentsline {paragraph}{\numberline {А.0.0.0.1}\MakeUppercase {Код программного продукта}}{22}{paragraph.a.A.0.0.0.1}
-\contentsline {likechapter}{\MakeUppercase {Приложение~А\tmspace +\thickmuskip {.2777em}Код программного продукта}}{22}{paragraph.a.A.0.0.0.1}
+\contentsline {subsection}{\numberline {2.2.2}Инверсионная мутация}{15}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Промежуточные выводы}{19}{subsection.2.2.3}
+\contentsline {section}{\numberline {2.3}Второй набор тестов}{19}{section.2.3}
+\contentsline {likechapter}{\MakeUppercase {Заключение}}{24}{section*.13}
+\contentsline {likechapter}{\MakeUppercase {������ ����������}}{25}{section*.14}
+\contentsline {paragraph}{\numberline {А.0.0.0.1}\MakeUppercase {Код программного продукта}}{26}{paragraph.a.A.0.0.0.1}
+\contentsline {likechapter}{\MakeUppercase {Приложение~А\tmspace +\thickmuskip {.2777em}Код программного продукта}}{26}{paragraph.a.A.0.0.0.1}

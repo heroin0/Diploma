@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/W32TeX) (preloaded format=xelatex 2017.3.22)  8 JUN 2017 12:56
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/W32TeX) (preloaded format=xelatex 2017.3.22)  8 JUN 2017 23:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -62,6 +62,9 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layouthoffset=\dimen110
 \Gm@layoutvoffset=\dimen111
 \Gm@dimlist=\toks15
+)
+(c:/texlive/2016/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
 )
 (c:/texlive/2016/texmf-dist/tex/latex/extsizes/extsizes.sty
 Package: extsizes 1996/10/08 v1.0 Non Standard LaTeX Package
@@ -1388,7 +1391,40 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 (c:/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
+)
+Missing character: There is no � in font Times New Roman Bold/OT:script=cyrl;la
+nguage=DFLT;!
+Missing character: There is no � in font Times New Roman Bold/OT:script=cyrl;la
+nguage=DFLT;!
+Missing character: There is no � in font Times New Roman Bold/OT:script=cyrl;la
+nguage=DFLT;!
+Missing character: There is no � in font Times New Roman Bold/OT:script=cyrl;la
+nguage=DFLT;!
+Missing character: There is no � in font Times New Roman Bold/OT:script=cyrl;la
+nguage=DFLT;!
+Missing character: There is no � in font Times New Roman Bold/OT:script=cyrl;la
+nguage=DFLT;!
+Missing character: There is no � in font Times New Roman Bold/OT:script=cyrl;la
+nguage=DFLT;!
+Missing character: There is no � in font Times New Roman Bold/OT:script=cyrl;la
+nguage=DFLT;!
+Missing character: There is no � in font Times New Roman Bold/OT:script=cyrl;la
+nguage=DFLT;!
+Missing character: There is no � in font Times New Roman Bold/OT:script=cyrl;la
+nguage=DFLT;!
+Missing character: There is no � in font Times New Roman Bold/OT:script=cyrl;la
+nguage=DFLT;!
+Missing character: There is no � in font Times New Roman Bold/OT:script=cyrl;la
+nguage=DFLT;!
+Missing character: There is no � in font Times New Roman Bold/OT:script=cyrl;la
+nguage=DFLT;!
+Missing character: There is no � in font Times New Roman Bold/OT:script=cyrl;la
+nguage=DFLT;!
+Missing character: There is no � in font Times New Roman Bold/OT:script=cyrl;la
+nguage=DFLT;!
+Missing character: There is no � in font Times New Roman Bold/OT:script=cyrl;la
+nguage=DFLT;!
+)
 \tf@toc=\write4
 \openout4 = `diplom.toc'.
 
@@ -1479,6 +1515,18 @@ Missing character: There is no � in font Times New Roman/OT:script=cyrl;langua
 e=DFLT;!
 Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
 e=DFLT;!
+
+Overfull \hbox (11.6395pt too wide) in paragraph at lines 28--30
+[]\l_fontspec_font Для тестирования использовался компьютер с следующей аппарат
+но-
+ []
+
+
+Overfull \hbox (4.92332pt too wide) in paragraph at lines 30--31
+[]\l_fontspec_font Процессор: Intel(R) Core(TM) i5-3230M CPU @ 2.60GHz (4 CPUs)
+,
+ []
+
 [14
 
 ]
@@ -1819,78 +1867,12 @@ Missing character: There is no � in font Times New Roman/OT:script=cyrl;langua
 e=DFLT;!
 Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
 e=DFLT;!
-
-Overfull \hbox (7.62822pt too wide) in paragraph at lines 138--139
+ [16] [17] [18]
+Overfull \hbox (7.62822pt too wide) in paragraph at lines 146--147
 []\l_fontspec_font Исходя из приведенных тестов, можно считать потвержденной пр
 ин-
  []
 
-[16]
-Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
-e=DFLT;!
-Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
-e=DFLT;!
-Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
-e=DFLT;!
-Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
-e=DFLT;!
-Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
-e=DFLT;!
-Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
-e=DFLT;!
-Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
-e=DFLT;!
-Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
-e=DFLT;!
-Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
-e=DFLT;!
-Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
-e=DFLT;!
-Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
-e=DFLT;!
-Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
-e=DFLT;!
-Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
-e=DFLT;!
-Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
-e=DFLT;!
-Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
-e=DFLT;!
-Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
-e=DFLT;!
-Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
-e=DFLT;!
-Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
-e=DFLT;!
-Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
-e=DFLT;!
-Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
-e=DFLT;!
-Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
-e=DFLT;!
-Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
-e=DFLT;!
-Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
-e=DFLT;!
-Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
-e=DFLT;!
-Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
-e=DFLT;!
-Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
-e=DFLT;!
-Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
-e=DFLT;!
-Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
-e=DFLT;!
- [17]
-
-LaTeX Warning: Reference `BigResultsTable' on page 18 undefined on input line 1
-59.
-
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 161.
-
 Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
 e=DFLT;!
 Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
@@ -1948,11 +1930,147 @@ e=DFLT;!
 Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
 e=DFLT;!
 
-Overfull \hbox (181.06934pt too wide) in paragraph at lines 165--199
- [][] 
- []
+Package natbib Warning: Citation `BigResults1' on page 19 undefined on input li
+ne 169.
 
-) [18] [19] (./conclusions.tex) [20] (./literature.tex
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+[19
+
+]
+
+LaTeX Warning: Text page 20 contains only floats.
+
+
+Overfull \vbox (4.7998pt too high) has occurred while \output is active []
+
+
+[20]
+
+Package natbib Warning: Citation `BigResults2' on page 21 undefined on input li
+ne 212.
+
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+[21]
+
+LaTeX Warning: Text page 22 contains only floats.
+
+
+Overfull \vbox (4.7998pt too high) has occurred while \output is active []
+
+
+[22]) [23] (./conclusions.tex) [24
+
+] (./literature.tex
 Missing character: There is no � in font Times New Roman Bold/OT:script=cyrl;la
 nguage=DFLT;!
 Missing character: There is no � in font Times New Roman Bold/OT:script=cyrl;la
@@ -1995,34 +2113,35 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--28
 []\l_fontspec_font Gilmore, P.C. and R.E. Gomory. (1966). “The Theory and
  []
 
-) [21] (c:/texlive/2016/texmf-dist/tex/latex/listings/lstlang1.sty
+) [25
+
+] (c:/texlive/2016/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 ) (./Case.cs) 
 AED: lastpage setting LastPage
-[22
+[26
 
 ]
 
 Package caption Warning: Unused \captionsetup[figure] on input line 44.
 See the caption package documentation for explanation.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 37.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 37.
+
+Package natbib Warning: There were undefined citations.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 36.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 36.
 (./diplom.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 37.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 37.
-
-
-LaTeX Warning: There were undefined references.
-
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 36.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 36.
  ) 
 Here is how much of TeX's memory you used:
- 29132 strings out of 493591
- 495970 string characters out of 6146794
- 561259 words of memory out of 5000000
- 32170 multiletter control sequences out of 15000+600000
+ 29150 strings out of 493591
+ 496318 string characters out of 6146794
+ 560507 words of memory out of 5000000
+ 32184 multiletter control sequences out of 15000+600000
  8210 words of font info for 55 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
  55i,12n,92p,10428b,1424s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on diplom.pdf (18 pages).
+Output written on diplom.pdf (22 pages).
