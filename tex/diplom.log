@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/W32TeX) (preloaded format=xelatex 2017.3.22)  3 JUN 2017 07:30
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/W32TeX) (preloaded format=xelatex 2017.3.22)  8 JUN 2017 12:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -6,7 +6,7 @@ entering extended mode
 (./diplom.tex
 LaTeX2e <2016/03/31>
 Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
-(c:/texlive/2016/texmf-dist/tex/latex/extsizes/extreport.cls
+(./preambule.tex (c:/texlive/2016/texmf-dist/tex/latex/extsizes/extreport.cls
 Document Class: extreport 1996/10/08 v1.0 Non Standard LaTeX document class
 (c:/texlive/2016/texmf-dist/tex/latex/extsizes/size14.clo
 File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
@@ -934,11 +934,27 @@ Package caption3 Info: TeX engine: e-TeX on input line 67.
 \c@ContinuedFloat=\count162
 Package caption Info: listings package is loaded.
 )
+Invalid UTF-8 byte or sequence at line 40 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 40 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 40 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 40 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 40 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 40 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 40 replaced by U+FFFD.
+
 (c:/texlive/2016/texmf-dist/tex/latex/caption/subcaption.sty
 Package: subcaption 2016/02/20 v1.1-142 Sub-captions (AR)
 \c@subfigure=\count163
 \c@subtable=\count164
 )
+Invalid UTF-8 byte or sequence at line 41 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 41 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 41 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 41 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 41 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 41 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 41 replaced by U+FFFD.
+
 (c:/texlive/2016/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 \fancy@headwidth=\skip97
 \f@ncyO@elh=\skip98
@@ -950,6 +966,10 @@ Package: subcaption 2016/02/20 v1.1-142 Sub-captions (AR)
 \f@ncyO@olf=\skip104
 \f@ncyO@orf=\skip105
 )
+Invalid UTF-8 byte or sequence at line 95 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 95 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 95 replaced by U+FFFD.
+
 (c:/texlive/2016/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip106
@@ -959,6 +979,22 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 \c@totfigures=\count166
 \c@tottables=\count167
 \c@totreferences=\count168
+Invalid UTF-8 byte or sequence at line 136 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 136 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 136 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 136 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 136 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 136 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 136 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 136 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 136 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 136 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 136 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 136 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 136 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 136 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 136 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 136 replaced by U+FFFD.
 
 (c:/texlive/2016/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
@@ -968,6 +1004,8 @@ Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \enit@inbox=\box56
 \enitdp@description=\count169
 )
+Invalid UTF-8 byte or sequence at line 148 replaced by U+FFFD.
+
 (c:/texlive/2016/texmf-dist/tex/latex/algorithms/algorithm.sty
 Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
 Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
@@ -984,6 +1022,11 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@every@algorithm=\toks44
 \c@algorithm=\count171
 )
+Invalid UTF-8 byte or sequence at line 157 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 157 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 157 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 157 replaced by U+FFFD.
+
 (c:/texlive/2016/texmf-dist/tex/latex/algorithmicx/algpseudocode.sty
 Package: algpseudocode 
 
@@ -1003,7 +1046,66 @@ Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
 \ALG@tmplength=\skip111
 )
 Document Style - pseudocode environments for use with the `algorithmicx' style
-) (c:/texlive/2016/texmf-dist/tex/latex/hyperref/hyperref.sty
+)
+Invalid UTF-8 byte or sequence at line 158 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 158 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 158 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 158 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 158 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 158 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 158 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 159 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 159 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 159 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 159 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 159 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 159 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 159 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 160 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 160 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 160 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 160 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 160 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 160 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 160 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 160 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 160 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 160 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 160 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 160 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 161 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 161 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 161 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 161 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 161 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 161 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 161 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 162 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 162 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 162 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 162 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 162 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 163 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 163 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 163 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 163 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 163 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 164 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 164 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 164 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 164 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 164 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 165 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 165 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 165 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 165 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 165 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 165 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 165 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 165 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 165 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 165 replaced by U+FFFD.
+ (c:/texlive/2016/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2016/05/05 v6.83n Hypertext links for LaTeX
 
 (c:/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
@@ -1128,15 +1230,67 @@ tly
 )
 \Hy@SectionHShift=\skip112
 )
+Invalid UTF-8 byte or sequence at line 174 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 174 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 174 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 174 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 174 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 174 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 174 replaced by U+FFFD.
 \c@theorem=\count191
+Invalid UTF-8 byte or sequence at line 175 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 175 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 175 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 175 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 175 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 175 replaced by U+FFFD.
 \c@problem=\count192
+Invalid UTF-8 byte or sequence at line 176 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 176 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 176 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 176 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 176 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 176 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 176 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 176 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 176 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 176 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 176 replaced by U+FFFD.
 \c@defn=\count193
+Invalid UTF-8 byte or sequence at line 177 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 177 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 177 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 177 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 177 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 177 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 177 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 177 replaced by U+FFFD.
 \c@scenario=\count194
+Invalid UTF-8 byte or sequence at line 179 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 179 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 179 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 179 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 179 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 179 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 179 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 180 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 180 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 180 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 180 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 180 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 180 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 180 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 180 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 180 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 180 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 180 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 180 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 180 replaced by U+FFFD.
 Package hyperref Info: Option `pdfdisplaydoctitle' set `true' on input line 184
 .
 Package hyperref Info: Option `pdfmenubar' set `true' on input line 184.
 Package hyperref Info: Option `pdftoolbar' set `false' on input line 184.
-
+)
 (./diplom.aux)
 \openout1 = `diplom.aux'.
 
@@ -1179,7 +1333,7 @@ File: t3cmr.fd 2001/12/31 TIPA font definitions
 
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 186.
+(lastpage)             ! on input line 2.
 \AtBeginShipoutBox=\box60
 (c:/texlive/2016/texmf-dist/tex/latex/oberdiek/pdflscape.sty
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
@@ -1201,7 +1355,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 186.
+Package hyperref Info: Link coloring ON on input line 2.
 
 (c:/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1222,7 +1376,14 @@ Package hyperref Warning: bookmark level for unknown likechapter defaults to 0.
 
 ) [5
 
-] (./diplom.toc (c:/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
+]
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+ (./diplom.toc (c:/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 (c:/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -1262,15 +1423,466 @@ Overfull \hbox (7.14914pt too wide) in paragraph at lines 5--7
 ость. 
  []
 
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
 [14
 
-] [15]
+]
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+ [15]
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+
 Overfull \hbox (7.62822pt too wide) in paragraph at lines 138--139
 []\l_fontspec_font Исходя из приведенных тестов, можно считать потвержденной пр
 ин-
  []
 
-[16] [17]
+[16]
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+ [17]
 
 LaTeX Warning: Reference `BigResultsTable' on page 18 undefined on input line 1
 59.
@@ -1279,12 +1891,101 @@ LaTeX Warning: Reference `BigResultsTable' on page 18 undefined on input line 1
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 161.
 
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
+Missing character: There is no � in font Times New Roman/OT:script=cyrl;languag
+e=DFLT;!
 
 Overfull \hbox (181.06934pt too wide) in paragraph at lines 165--199
  [][] 
  []
 
 ) [18] [19] (./conclusions.tex) [20] (./literature.tex
+Missing character: There is no � in font Times New Roman Bold/OT:script=cyrl;la
+nguage=DFLT;!
+Missing character: There is no � in font Times New Roman Bold/OT:script=cyrl;la
+nguage=DFLT;!
+Missing character: There is no � in font Times New Roman Bold/OT:script=cyrl;la
+nguage=DFLT;!
+Missing character: There is no � in font Times New Roman Bold/OT:script=cyrl;la
+nguage=DFLT;!
+Missing character: There is no � in font Times New Roman Bold/OT:script=cyrl;la
+nguage=DFLT;!
+Missing character: There is no � in font Times New Roman Bold/OT:script=cyrl;la
+nguage=DFLT;!
+Missing character: There is no � in font Times New Roman Bold/OT:script=cyrl;la
+nguage=DFLT;!
+Missing character: There is no � in font Times New Roman Bold/OT:script=cyrl;la
+nguage=DFLT;!
+Missing character: There is no � in font Times New Roman Bold/OT:script=cyrl;la
+nguage=DFLT;!
+Missing character: There is no � in font Times New Roman Bold/OT:script=cyrl;la
+nguage=DFLT;!
+Missing character: There is no � in font Times New Roman Bold/OT:script=cyrl;la
+nguage=DFLT;!
+Missing character: There is no � in font Times New Roman Bold/OT:script=cyrl;la
+nguage=DFLT;!
+Missing character: There is no � in font Times New Roman Bold/OT:script=cyrl;la
+nguage=DFLT;!
+Missing character: There is no � in font Times New Roman Bold/OT:script=cyrl;la
+nguage=DFLT;!
+Missing character: There is no � in font Times New Roman Bold/OT:script=cyrl;la
+nguage=DFLT;!
+Missing character: There is no � in font Times New Roman Bold/OT:script=cyrl;la
+nguage=DFLT;!
+
 Underfull \hbox (badness 10000) in paragraph at lines 17--19
 []\l_fontspec_font P.C.Chu and J.E.Beasley "A genetic algorithm for the
  []
@@ -1305,26 +2006,23 @@ AED: lastpage setting LastPage
 Package caption Warning: Unused \captionsetup[figure] on input line 44.
 See the caption package documentation for explanation.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 221.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 221.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 37.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 37.
 (./diplom.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 221.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 221.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 37.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 37.
 
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 29129 strings out of 493591
- 495933 string characters out of 6146794
- 561204 words of memory out of 5000000
+ 29132 strings out of 493591
+ 495970 string characters out of 6146794
+ 561259 words of memory out of 5000000
  32170 multiletter control sequences out of 15000+600000
  8210 words of font info for 55 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
- 53i,12n,92p,10410b,1424s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,12n,92p,10428b,1424s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on diplom.pdf (18 pages).
