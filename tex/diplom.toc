@@ -1,21 +1,21 @@
 \select@language {russian}
 \select@language {russian}
-\contentsline {likechapter}{\MakeUppercase {Реферат}}{5}{section*.1}
-\contentsline {likechapter}{\MakeUppercase {Введение}}{7}{section*.2}
-\contentsline {chapter}{\numberline {1}Теоретическая часть}{8}{chapter.1}
-\contentsline {section}{\numberline {1.1}Задача о многомерном рюкзаке}{8}{section.1.1}
-\contentsline {section}{\numberline {1.2}Генетические алгоритмы}{9}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}Этапы работы алгоритма}{10}{subsection.1.2.1}
-\contentsline {subsection}{\numberline {1.2.2}Выбор этапов}{11}{subsection.1.2.2}
-\contentsline {subsection}{\numberline {1.2.3}Дополнения алгоритма}{12}{subsection.1.2.3}
-\contentsline {chapter}{\numberline {2}Практическая часть}{14}{chapter.2}
-\contentsline {section}{\numberline {2.1}Наборы тестов}{14}{section.2.1}
-\contentsline {section}{\numberline {2.2}Первый набор тестов}{15}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Мутация в одной позиции}{15}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Инверсионная мутация}{15}{subsection.2.2.2}
-\contentsline {subsection}{\numberline {2.2.3}Промежуточные выводы}{19}{subsection.2.2.3}
-\contentsline {section}{\numberline {2.3}Второй набор тестов}{19}{section.2.3}
-\contentsline {likechapter}{\MakeUppercase {Заключение}}{24}{section*.13}
-\contentsline {likechapter}{\MakeUppercase {������ ����������}}{25}{section*.14}
-\contentsline {paragraph}{\numberline {А.0.0.0.1}\MakeUppercase {Код программного продукта}}{26}{paragraph.a.A.0.0.0.1}
-\contentsline {likechapter}{\MakeUppercase {Приложение~А\tmspace +\thickmuskip {.2777em}Код программного продукта}}{26}{paragraph.a.A.0.0.0.1}
+\contentsline {likechapter}{\MakeUppercase {Реферат}}{1}{section*.1}
+\contentsline {likechapter}{\MakeUppercase {Введение}}{3}{section*.2}
+\contentsline {chapter}{\numberline {1}Теоретическая часть}{4}{chapter.1}
+\contentsline {section}{\numberline {1.1}Задача о многомерном рюкзаке}{4}{section.1.1}
+\contentsline {section}{\numberline {1.2}Генетические алгоритмы}{5}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Этапы работы алгоритма}{6}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Выбор этапов}{7}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}Дополнения алгоритма}{8}{subsection.1.2.3}
+\contentsline {chapter}{\numberline {2}Практическая часть}{10}{chapter.2}
+\contentsline {section}{\numberline {2.1}Наборы тестов}{10}{section.2.1}
+\contentsline {section}{\numberline {2.2}Первый набор тестов}{11}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Мутация в одной позиции}{11}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Инверсионная мутация}{11}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Промежуточные выводы}{15}{subsection.2.2.3}
+\contentsline {section}{\numberline {2.3}Второй набор тестов}{15}{section.2.3}
+\contentsline {likechapter}{\MakeUppercase {Заключение}}{20}{section*.13}
+\contentsline {likechapter}{\MakeUppercase {������ ����������}}{21}{section*.14}
+\contentsline {paragraph}{\numberline {А.0.0.0.1}\MakeUppercase {Код программного продукта}}{22}{paragraph.a.A.0.0.0.1}
+\contentsline {likechapter}{\MakeUppercase {Приложение~А\tmspace +\thickmuskip {.2777em}Код программного продукта}}{22}{paragraph.a.A.0.0.0.1}
