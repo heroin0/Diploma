@@ -165,26 +165,27 @@ babel=other % многоязычная библиография
 }{
 \end{list}
 }
-
-
 \renewcommand{\bibname}{Список использованных/par/centerline{источников}}
+
+%My addings to
+\input{mycommands}
+
+\makeatother
+\pretocmd{\chapter}{\addtocounter{totfigures}{\value{figure}}}{}{}
+\pretocmd{\chapter}{\addtocounter{tottables}{\value{table}}}{}{}
+\pretocmd{\bibitem}{\addtocounter{totreferences}{1}}{}{}
+
+
+
+
+
+
 
 \begin{document} % конец преамбулы, начало документа
 
 %\maketitle
 
-\input{titlepage}
-
-\pagestyle{plain}
-\chapter*{РЕФЕРАТ}
-%\addcontentsline{toc}{chapter}{РЕФЕРАТ}
-
-\thispagestyle{empty}   % отменить вывод номера страницы
-Данный шаблон, файл с расширением .tex, предназначен для того, чтобы внести в него изменения и получить персональную ВКР. В то же время он является набором примеров, как верстать отдельные элементы в Latex. Прилагаемый .PDF файл содержит краткую инструкцию по работе в Latex и ссылки на литературу.
-
-Номер страницы реферата не печатается и эта страница не учитывается в нумерации страниц ВКР.
-
-На страницах оглавления не выводятся номера, но они учитываются при нумерации страниц ВКР.
+\input{abstract}
 
 \cleardoublepage               %  номер страницы в оглавлении не выводится
 \pagenumbering{gobble}         %  номер страницы в оглавлении не выводится
