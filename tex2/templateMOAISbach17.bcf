@@ -3243,21 +3243,22 @@
   <!-- CITATION DATA -->
   <!-- SECTION 0 -->
   <bcf:bibdata section="0">
-    <bcf:datasource type="file" datatype="bibtex">bibliogr.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex">library.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">__2003</bcf:citekey>
-    <bcf:citekey order="2">__2010</bcf:citekey>
-    <bcf:citekey order="3">__2003</bcf:citekey>
+    <bcf:citekey order="1">Гэвиш1982</bcf:citekey>
+    <bcf:citekey order="2">Ших1979</bcf:citekey>
+    <bcf:citekey order="3">Гилмор1966</bcf:citekey>
     <bcf:citekey order="4">__2010</bcf:citekey>
-    <bcf:citekey order="5">__2010</bcf:citekey>
-    <bcf:citekey order="6">__2003</bcf:citekey>
+    <bcf:citekey order="5">__2003</bcf:citekey>
+    <bcf:citekey order="6">__2010</bcf:citekey>
     <bcf:citekey order="7">__2010</bcf:citekey>
-    <bcf:citekey order="8">__2010</bcf:citekey>
+    <bcf:citekey order="8">__2003</bcf:citekey>
     <bcf:citekey order="9">__2010</bcf:citekey>
-    <bcf:citekey order="10">__2003</bcf:citekey>
+    <bcf:citekey order="10">__2010</bcf:citekey>
     <bcf:citekey order="11">__2010</bcf:citekey>
-    <bcf:citekey order="0">*</bcf:citekey>
+    <bcf:citekey order="12">__2003</bcf:citekey>
+    <bcf:citekey order="13">__2010</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="none/global/" type="entry" sortscheme="none" sortnamekeyscheme="global" labelprefix="">
   <bcf:sorting>

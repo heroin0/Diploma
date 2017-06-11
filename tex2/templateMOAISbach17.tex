@@ -1,190 +1,10 @@
-
-\documentclass[a4paper,14pt,oneside]{book}
-%\usepackage[french,latin,english,russian]{babel}
-
-\usepackage[english,russian]{babel}   %% загружает пакет многоязыковой вёрстки
-\usepackage{fontspec}      %% подготавливает загрузку шрифтов Open Type, True Type и др.
-\defaultfontfeatures{Ligatures={TeX},Renderer=Basic}  %% свойства шрифтов по умолчанию
-\setmainfont[Ligatures={TeX,Historic}]{Times New Roman} %% задаёт основной шрифт документа
-\setsansfont{Comic Sans MS}                    %% задаёт шрифт без засечек
-\setmonofont{Courier New}
-\usepackage{indentfirst}
-\frenchspacing   % интервалы между словами и предложениями - одинаковые
-
-\clubpenalty=9999        %  без висячих строк
-\widowpenalty=9999    %  без висячих строк
-
-\usepackage[backend=biber,style=gost-numeric, % стиль цитирования и библиографии
-sorting=none,     %  в порядке ссылок из текста,
-language=auto, % получение языка из babel
-%firstinits=false,   % ФИО полностью
-babel=other % многоязычная библиография
-]{biblatex}
-\addbibresource{bibliogr.bib} % библиографическая база данных
-
-\NewBibliographyString{langjapanese}     %  bug в gost
-\NewBibliographyString{fromjapanese}    %  bug  в  gost
-
-%\DefineBibliographyStrings{english}{pages={p.}}
-
-\DefineBibliographyExtras{russian}{\protected\def\bibrangedash{\textendash}}    % EN DASH в страницах:  8-9  (черточка)
-
-\DefineBibliographyExtras{russian}{
-    \renewcommand*{\newblockpunct}{\addperiod\addnbspace\textendash\space\bibsentence}%  EN DASH между блоками (черточка)
-}
-%======================
-
-
-%%% Работа с русским языком
-\usepackage{cmap}                   % поиск в PDF
-\usepackage{mathtext}               % русские буквы в фомулах
-
-%%% Дополнительная работа с математикой
-\usepackage{amsmath,amsfonts,amssymb,amsthm,mathtools} % AMS
-\usepackage{icomma} % "Умная" запятая: $0,2$ --- число, $0, 2$ --- перечисление
-
-%% Свои команды
-\DeclareMathOperator{\sgn}{\mathop{sgn}}
-
-%% Перенос знаков в формулах (по Львовскому)
-\newcommand*{\hm}[1]{#1\nobreak\discretionary{}
-{\hbox{$\mathsurround=0pt #1$}}{}}
-
-%%% Работа с картинками
-\usepackage{graphicx}  % Для вставки рисунков
-\graphicspath{{/}}  % папки с картинками
-\setlength\fboxsep{3pt} % Отступ рамки \fbox{} от рисунка
-\setlength\fboxrule{1pt} % Толщина линий рамки \fbox{}
-\usepackage{wrapfig} % Обтекание рисунков текстом
-
-%%% Работа с таблицами
-\usepackage{array,tabularx,tabulary,booktabs} % Дополнительная работа с таблицами
-\usepackage{longtable}  % Длинные таблицы
-\usepackage{multirow} % Слияние строк в таблице
-
-%%% Теоремы
-\theoremstyle{plain} % Это стиль по умолчанию, его можно не переопределять.
-\newtheorem{theorem}{Теорема}[section]
-\newtheorem{proposition}[theorem]{Утверждение}
- 
-\theoremstyle{definition} % "Определение"
-\newtheorem{corollary}{Следствие}[theorem]
-\newtheorem{problem}{Задача}[section]
- 
-\theoremstyle{remark} % "Примечание"
-\newtheorem*{nonum}{Решение}
-
-%%% Программирование
-%\usepackage{etoolbox} % логические операторы
-
-%%% Страница
-\usepackage{extsizes} % Возможность сделать 14-й шрифт
-\usepackage{geometry} % Простой способ задавать поля
-    \geometry{top=20mm}
-    \geometry{bottom=20mm}
-    \geometry{left=20mm}
-    \geometry{right=10mm}
- %
-%\usepackage{fancyhdr} % Колонтитулы
-  %  \pagestyle{fancy}
-    %\renewcommand{\headrulewidth}{0mm}  % Толщина линейки, отчеркивающей верхний колонтитул
-%    \lfoot{Нижний левый}
-%    \rfoot{Нижний правый}
-%    \rhead{Верхний правый}
-%    \chead{Верхний в центре}
-%    \lhead{Верхний левый}
-    % \cfoot{Нижний в центре} % По умолчанию здесь номер страницы
-
-\usepackage{setspace} % Интерлиньяж
-%\onehalfspacing % Интерлиньяж 1.5
-%\doublespacing % Интерлиньяж 2
-%\singlespacing % Интерлиньяж 1
-
-\usepackage{lastpage} % Узнать, сколько всего страниц в документе.
-
-\usepackage{soul} % Модификаторы начертания, highlight text
-
-\usepackage{hyperref}
-\usepackage[usenames,dvipsnames,svgnames,table,rgb]{xcolor}
-\hypersetup{                % Гиперссылки
-    unicode=true,           % русские буквы в раздела PDF
-    pdftitle={Заголовок},   % Заголовок
-    pdfauthor={Автор},      % Автор
-    pdfsubject={Тема},      % Тема
-    pdfcreator={Создатель}, % Создатель
-    pdfproducer={Производитель}, % Производитель
-    pdfkeywords={keyword1} {key2} {key3}, % Ключевые слова
-    colorlinks=true,        % false: ссылки в рамках; true: цветные ссылки
-%    linkcolor=[rgb]{0.047,0.023,0.121},          % внутренние ссылки  , оглавление здесь 
-%    linkcolor=[rgb]{0.2,0.1,0.5},          % внутренние ссылки  , оглавление здесь
-     linkcolor=[rgb]{0,0,1},          % внутренние ссылки  , оглавление здесь
-%    linkcolor=[rgb]{0.1016,0.074,0.1836},          % внутренние ссылки  , оглавление здесь
-%    citecolor=green,        % на библиографию
-    citecolor=[rgb]{0,0,1},        % на библиографию
-%    filecolor=magenta,      % на файлы
-    filecolor=[rgb]{0,0,1},      % на файлы
-    urlcolor=[rgb]{0,0,1}           % на URL
-%    urlcolor=cyan           % на URL
-}
-%%%%%%%%%%%%%%%%%% меняю список литературы
-\makeatletter
-\renewcommand{\@biblabel}[1]{#1.\hfil}
-\makeatother
-\addto\captionsrussian{\def\refname{Список использованных источников}}
-\renewcommand{\bibname}{Список использованных/par/centerline{источников}}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%\renewcommand{\familydefault}{\sfdefault} % Начертание шрифта
-
-\usepackage{multicol} % Несколько колонок
-
-%\author{\LaTeX{} в Вышке}
-%\title{3.2 Оформление документа в целом}
-%\date{\today}
-\usepackage[justification=justified,singlelinecheck=false]{caption}  % параметры - выравнивание влево
-\usepackage{titlesec}    % formatting chapter title
-\titleformat{\chapter}[hang] 
-{\normalfont\Large\bfseries}{\thechapter}{1em}{}   %  word chapter and chapter name in one line
-% remove word chapter and decreas font size
-% сплошная нумерация таблиц и рисунков
-\usepackage{chngcntr}   
-\counterwithout{figure}{chapter}
-\counterwithout{table}{chapter}
-
-%\usepackage{geometry}
-%\geometry{verbose,tmargin=20mm,bmargin=20mm,lmargin=30mm,rmargin=15mm}  %  margins
-
-% списки без вертикальных интервалов по Столярову
-\newenvironment{compactlist}{
-\begin{list}{{$\bullet$}}{
-\setlength\partopsep{0pt}
-\setlength\parskip{0pt}
-\setlength\parsep{0pt}
-\setlength\topsep{0pt}
-\setlength\itemsep{0pt}
-}
-}{
-\end{list}
-}
-\renewcommand{\bibname}{Список использованных/par/centerline{источников}}
+\input{preambule}
 
 %My addings to
 \input{mycommands}
 
-\makeatother
-\pretocmd{\chapter}{\addtocounter{totfigures}{\value{figure}}}{}{}
-\pretocmd{\chapter}{\addtocounter{tottables}{\value{table}}}{}{}
-\pretocmd{\bibitem}{\addtocounter{totreferences}{1}}{}{}
-
-
-
-
-
-
-
 \begin{document} % конец преамбулы, начало документа
-
 %\maketitle
-
 \input{abstract}
 
 \cleardoublepage               %  номер страницы в оглавлении не выводится
@@ -199,54 +19,8 @@ babel=other % многоязычная библиография
 
 \setcounter{page}{4}  % номер первой страницы после оглавления
 
-\chapter*{ОБОЗНАЧЕНИЯ}
-\addcontentsline{toc}{chapter}{ОБОЗНАЧЕНИЯ И СОКРАЩЕНИЯ}
-
-В данной работе использованы следующие обозначения и сокращения.
-
-\chapter*{ВВЕДЕНИЕ}
-\addcontentsline{toc}{chapter}{ВВЕДЕНИЕ}
-
- Latex - самое качественное и удобное средство для верстки академических статей и монографий.
-
-Рекомендуем начать работу с чтения Элементарного введения в \cite{__2003} - всего 43 страницы.
-
-Затем стоит установить Latex на свой компьютер  в виде пакета Miktex, как описано в приложении \ref{latex}. 
-
-Основным инструментом будет программа редактирования и трансляции Texworks. У нее единственное окно, в котором можно редактировать текст, и одна кнопка - зеленого цвета на панели сверху слева, которой можно запустить трансляцию текста. Исходный текст сохраняется, как файл с расширением .tex, в результате трансляции получается .pdf файл для просмотра и печати. Чтобы смотреть его, желательно установить бесплатный Adobe Acrobat Reader. В той папке, где у вас будут .tex и .pdf файлы, вы увидите другие рабочие файлы, на них можно не обращать внимание. Рекомендуем все файлы:  .tex, .pdf, файлы с рисунками и библиографическими записями держать в одной папке.
-
-Ярлык программы Texworks можно скопировать из меню <<Все программы>> на рабочий стол.
-
-Хорошо прочитать файл template.pdf, если будет интересно, как реализованы те или иные конструкции, параллельно можно открыть файл template.tex в Texworks.
-
-Теперь вы готовы редактировать текст ВКР. Откройте template.tex //
-в Texworks и сохраните под другим именем. Вносите изменения в текст шаблона мелкими порциями. После каждого небольшого изменения рекомендуем сохранять файл текста под другим именем, транслировать и смотреть, что получилось, так, если встретятся трудности, вы будете знать, что их вызвало. 
-
-Учтите, что от начала шаблона до команды \verb|\begin{document}|  располагается преамбула с настройками, как правило, она останется неизменной до конца работы над ВКР. Собственно текст  располагается от команды \verb|\begin{document}| до команды \verb|\end{document}|.
-
-Структурные элементы: реферат, введение, основная часть, заключение, приложения неизменны, они уже прописаны в шаблоне, например, так:\\
-\newpage
-\begin{verbatim}
-\chapter*{ВВЕДЕНИЕ}
-\addcontentsline{toc}{chapter}{ВВЕДЕНИЕ}
-\end{verbatim}
-Внутри Основной части вы используете команды \verb|\section| \\и \verb|\subsection|, чтобы создать разделы и подразделы.
-В тексте вы используете команду \verb|\label|, чтобы пометить разделы, подразделы, рисунки, таблицы и формулы, и команду \verb|\ref|, чтобы на них сослаться.
-
-Оглавление формируется командой \verb|\tableofcontents| автоматически, исходя из использованных в тексте команд структурирования.
-
-Когда вы дойдете до списка использованной литературы, поставьте Zotero под Firefox, как описано в приложении \ref{zotero}. В Zotero вы сможете одним кликом сохранять библиографические ссылки из электронных каталогов. Затем вы экспортируете файл с расширением .bib и Latex автоматически сформирует список использованной литературы в соответствии с ГОСТ.
-
-Отнеситесь внимательно к переходам от одного элемента к другому. Например, перед выводом оглавления стоят команды, отменяющие вывод номера страницы, а после - восстанавливающие этот режим.
-
-Вносите изменения в текст постепенно и, возможно, вразброс, так как Latex автоматически нумерует разделы, рисунки, таблицы и формулы.
-
-Сверстанная в Latex ВКР, возможно, будет выглядеть презентабельнее, чем по-другому. Кроме того более половины академических журналов принимают статьи, сверстанные в Latex, поэтому данный опыт поможет вам в будущем. 
-
-
-
-
-
+\input{abbriviations}
+\input{intro}
 
 %\chapter*{ОСНОВНАЯ ЧАСТЬ}
 %\addcontentsline{toc}{chapter}{ОСНОВНАЯ ЧАСТЬ}
@@ -804,88 +578,25 @@ C&D\\
 
 %\addcontentsline{toc}{section}{Список литературы}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\nocite{*}
-\renewcommand{\bibname}{Список использованных источников}
-\printbibliography[title=Список \\использованных источников] 
-\addcontentsline{toc}{chapter}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{thebibliography}{3}
-\bibitem{Sulsky1994}
-Sulsky D., Chen Z., Schreyer H. L.  A particle method for history-dependent materials // Computer Methods in Applied Mechanics and Engineering. --- 1994, V. 118. --- P. 179--196.
-\bibitem{LiuLiu}
-Liu G. R., Liu M. B. Smoothed particle hydrodynamics: a meshfree particle method. --- Singapore : World Scientific Publishing. --- 2003. --- 449 p.
-\end{thebibliography}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\appendix
 
+
+\printbibliography
+[title=Список \\использованных источников]
+\appendix
 \chapter*{ПРИЛОЖЕНИЯ}
 \addcontentsline{toc}{chapter}{ПРИЛОЖЕНИЯ}
 
-\chapter{Установка Latex}\label{latex}
-
-Откройте \href{http://miktex.org/}{http://miktex.org/}, в верхнем меню нажмите Download.
-
-В разделе Other downloads скачайте Miktex Net Installer для Windows 32-bit или Windows 64-bit в зависимости от установленной на компьютере операционной системы. Эти инсталляторы помечены текстом:\\
-This installer allows you download all packages and install a complete TeX$\backslash$ LaTeX system.
-
-Запустите инсталлятор от пользователя с правами администратора.
-
-Архивы результатов такого скачивания некоторой давности лежат на сайте \href{http://vkr.urfu.ru/}{vkr.urfu.ru} в разделе Документы.
-
-Среди скачанных файлов найдите и запустите (с правами администратора) файл setup.....exe.
-
-По окончании  проверьте установку. Запустите редактор/транслятор\\Texworks, входящий в состав пакета Miktex, и при всех параметрах по умолчанию исполните пример:\\
-
-\begin{verbatim}
-\documentclass[12pt]{article}   
-\usepackage{amsmath}
-\begin{document}
-$$\begin{pmatrix}
-a_{11}-\lambda & a_{12}&a_{13}\\
-a_{21}& a_{22}-\lambda &a_{23}\\
-a_{31}& a_{32}&a_{33}-\lambda
-\end{pmatrix}$$
-\end{document}
-\end{verbatim}
-
-$$\begin{pmatrix}
-a_{11}-\lambda & a_{12}&a_{13}\\
-a_{21}& a_{22}-\lambda &a_{23}\\
-a_{31}& a_{32}&a_{33}-\lambda
-\end{pmatrix}$$
-\vskip1cm
-Теперь нужно настроить Miktex на определенный режим работы:\\
-- среди множества вариантов трансляторов, заложенных в Miktex, будем использовать Xelatex;\\
-- библиографию из файла с расширением .bib будет забирать программа Biber;\\
-- оформлять список использованной литературы в соответствии с ГОСТ будет пакет biblatex.
-
-Создайте .bat файл с именем xelatex+biber.bat и поместите его, считая от корневого каталога Miktex, в  \verb|\miktex\bin\x64| - для Miktex 64 и в \verb|\miktex\bin\| - для Miktex 32. Содержимое файла:\\
-
-\begin{verbatim}
-miktex-xetex.exe -synctex=1 -undump=xelatex "%1"
-biber.exe "%2"
-miktex-xetex.exe -synctex=1 -undump=xelatex "%1"
-\end{verbatim}
-
-Запустите Texworks.\\
-Edit - preferentces - typesetting\\
-и в разделе Processingtools кнопкой + создайте:\\
-Name:\\
-xelatex+biber\\
-Program:\\
-xelatex+biber.bat\\
-и 2 аргумента в указанном порядке:\\
-\$fullname\\
-\$basename\\
-и отметьте: view PDF after running
-
-нажмите ОК.
-
-Ниже раздела Processingtools в выпадающем списке, помеченном, ка\\Default, выберите xelatex+biber и сохраните клавишей OK. Теперь на верхней панели Texworks правее зеленой кнопки стоит xelatex+biber.\\
-Попробуйте оттранслировать данный  шаблон (файл с расширением .tex), если получился текст, который вы сейчас читаете, настройка прошла успешно.
-
-\chapter{Установка Zotero}\label{zotero}
-
-В Firefox открываем  zotero.org,  жмем в верхнем меню Download, жмем Zotero for Firefox, разрешаем и подтверждаем установку расширения. После перезапуска Firefox на его панели справа вверху должна появиться большая буква Z. 
+\chapter{Исходный код программы}
+\lstset{
+	language=[Sharp]C,
+	%morekeywords={yield,var,get,set,from,select,partial},
+	breaklines=true,
+	basicstyle=\footnotesize\ttfamily}
+\linespread{1}
+\lstinputlisting{./SourceCode/KnapsackConfig.cs}
+\lstinputlisting{./SourceCode/GeneticalAlgorithm.cs}
+\lstinputlisting{./SourceCode/SetPartition.cs}
+\lstinputlisting{./SourceCode/SetPartitionUtility.cs}
+\lstinputlisting{./SourceCode/Program.cs}
 
 \end{document} % конец документа
