@@ -7,8 +7,6 @@
 
 \begin{table}[ht]%таблица выглядит очень странно ---
 \centering
-\caption{Параметры первого набора тестов}
-\label{table1}
 \begin{tabular}{|c|c|c|}
 \hline
 № задачи & Размерность & Количество предметов \\ \hline
@@ -20,6 +18,8 @@
 6        & 39          & 5                    \\ \hline
 7        & 50          & 5                    \\ \hline
 \end{tabular}
+\caption{Параметры первого набора тестов}
+\label{table1}
 \end{table}  
 
 Второй набор тестов взят из статьи Чу (см \cite{Чу1998}) и содержит в себе 30 задач с одинаковыми параметрами: размерность рюкзака равна 5, рассматривается 100 различных предметов.
@@ -39,8 +39,6 @@
 При сравнении результатов скрещивания можно заметить, что алгоритм побитового скрещивания в большинстве случаев несколько уступает в скрости другим алгоритмам.
 \begin{table}[ht]
 \centering
-\caption{Одноточечная мутация, одноточечное скрещивание}
-\label{SingleMutSingleCross}
 \begin{tabular}{|c|c|c|}
 \hline
 № теста             & Итерации            & Время, мс            \\ \hline
@@ -52,12 +50,12 @@
 6                   & 400974              & 13481                \\ \hline
 7                   & 9343432             & 396644               \\ \hline
 \end{tabular}
+\caption{Одноточечная мутация, одноточечное скрещивание}
+\label{SingleMutSingleCross}
 \end{table}
 
 \begin{table}[ht]
 \centering
-\caption{Одноточечная мутация, двуточечное скрещивание}
-\label{SingleMutDoubleCross}
 \begin{tabular}{|c|c|c|}
 \hline
 № теста & Итерации & Время, мс \\ \hline
@@ -69,12 +67,12 @@
 6       & 23261    & 8181      \\ \hline
 7       & 4770456  & 199461    \\ \hline
 \end{tabular}
+\caption{Одноточечная мутация, двуточечное скрещивание}
+\label{SingleMutDoubleCross}
 \end{table}
 
 \begin{table}[ht]
 \centering
-\caption{Одноточечная мутация, побитовое скрещивание}
-\label{SingleMutBitCross}
 \begin{tabular}{|c|c|c|}
 \hline
 № теста & Итерации & Время. мс \\ \hline
@@ -86,6 +84,8 @@
 6       & 289379   & 100133    \\ \hline
 7       & 348826   & 139403    \\ \hline
 \end{tabular}
+\caption{Одноточечная мутация, побитовое скрещивание}
+\label{SingleMutBitCross}
 \end{table}
 \FloatBarrier
 \subsection{Инверсионная мутация}
@@ -93,8 +93,6 @@
 Также можно отметить существенно более высокую скорость решения в сравнении с алгоритмом одноточечной мутации для теста 2.
 \begin{table}[ht]
 \centering
-\caption{Инверсионная мутация, одноточечное скрещивание}
-\label{InvMutSingleCross}
 \begin{tabular}{|c|c|c|}
 \hline
 № теста & Итерации & Время. мс \\ \hline
@@ -106,6 +104,8 @@
 6       & -        & -         \\ \hline
 7       & -        & -         \\ \hline
 \end{tabular}
+\caption{Инверсионная мутация, одноточечное скрещивание}
+\label{InvMutSingleCross}
 \end{table}
 
 \begin{table}[ht]
@@ -127,8 +127,6 @@
 
 \begin{table}[ht]
 \centering
-\caption{Инверсионная мутация, побитовое скрещивание}
-\label{InvMutBitCross}
 \begin{tabular}{|c|c|c|}
 \hline
 № теста & Итерации & Время. мс \\ \hline
@@ -140,6 +138,8 @@
 6       & -        & -         \\ \hline
 7       & -        & -         \\ \hline
 \end{tabular}
+\caption{Инверсионная мутация, побитовое скрещивание}
+\label{InvMutBitCross}
 \end{table}
 \FloatBarrier
 \subsection{Промежуточные выводы}
@@ -149,8 +149,6 @@
 
 \begin{table}[ht]
 \centering
-\caption{Параметры запуска второго набора тестов}
-\label{ParamTable}
 \begin{tabular}{|c|c|}
 \hline
 Вид скрещивания                            & Двуточечное  \\ \hline
@@ -161,6 +159,8 @@
 Величина отклонения для сброса алгоритма   & 0.01         \\ \hline
 Количество итераций до полного перезапуска & 200000       \\ \hline
 \end{tabular}
+\caption{Параметры запуска второго набора тестов}
+\label{ParamTable}
 \end{table}
 \FloatBarrier
 %на чем гоняли
@@ -171,8 +171,6 @@
 
 \begin{table}[ht!]
 	\centering
-	\caption{Временная эффективность алгоритма}
-	\label{BigResults1}
 	\begin{tabular}{|c|c|c|}
 		\hline
 		№ теста & Количество итераций & Время, с \\ \hline
@@ -207,13 +205,13 @@
 		29      & -                   & 895      \\ \hline
 		30      & 1423522             & 625      \\ \hline
 	\end{tabular}
+	\caption{Временная эффективность алгоритма}
+	\label{BigResults1}
 \end{table}
 \FloatBarrier
 В 43.3\% случаев генетический алгоритм решил задачу и во всех случаях расхождение найденного и действительного максимумов расходится не более чем на 0,0021 с оптимальным результатом в относительных значениях(см \cite{BigResults2}). 
 \begin{table}[ht!]
 	\centering
-	\caption{Эффективность в достижении максимума задачи}
-	\label{BigResults2}
 	\begin{tabular}{|c|c|}
 		\hline
 		№ теста & Относительное расхождение с максимумом \\ \hline
@@ -248,11 +246,8 @@
 		29      & 0,0006                                 \\ \hline
 		30      & 0                                      \\ \hline
 	\end{tabular}
+	\caption{Эффективность в достижении максимума задачи}
+	\label{BigResults2}
 \end{table}
 \FloatBarrier
-
-%что должно быть здесь
-%все с клетчатого листочка
-%новая програииа, новая таблица с тестовыми данными
-%график новых данных
 %откуда брали тестовые данные.
