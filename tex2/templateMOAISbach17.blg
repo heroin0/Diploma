@@ -1,14 +1,19 @@
-[0] Config.pm:343> INFO - This is Biber 2.5
+[1] Config.pm:343> INFO - This is Biber 2.5
 [1] Config.pm:346> INFO - Logfile is 'templateMOAISbach17.blg'
-[104] biber-MSWIN32:290> INFO - === 
-[176] Biber.pm:351> INFO - Reading 'templateMOAISbach17.bcf'
-[449] Biber.pm:773> INFO - Using all citekeys in bib section 0
-[490] Biber.pm:3493> INFO - Processing section 0
-[562] Biber.pm:3657> INFO - Looking for bibtex format file 'library.bib' for section 0
-[565] bibtex.pm:1187> INFO - Decoding LaTeX character macros into UTF-8
-[568] bibtex.pm:1048> INFO - Found BibTeX data source 'library.bib'
-[620] UCollate.pm:66> INFO - Overriding locale 'ru-RU' defaults 'variable = shifted' with 'variable = non-ignorable'
-[620] UCollate.pm:66> INFO - Overriding locale 'ru-RU' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[620] Biber.pm:3306> INFO - Sorting list 'none/global/' of type 'entry' with scheme 'none' and locale 'ru-RU'
-[629] bbl.pm:526> INFO - Writing 'templateMOAISbach17.bbl' with encoding 'UTF-8'
-[632] bbl.pm:619> INFO - Output to templateMOAISbach17.bbl
+[54] biber-MSWIN32:290> INFO - === 
+[89] Biber.pm:351> INFO - Reading 'templateMOAISbach17.bcf'
+[293] Biber.pm:776> INFO - Found 11 citekeys in bib section 0
+[316] Biber.pm:3493> INFO - Processing section 0
+[342] Biber.pm:3657> INFO - Looking for bibtex format file 'library.bib' for section 0
+[348] bibtex.pm:1187> INFO - Decoding LaTeX character macros into UTF-8
+[350] bibtex.pm:1048> INFO - Found BibTeX data source 'library.bib'
+[363] Utils.pm:149> WARN - I didn't find a database entry for '__2010' (section 0)
+[363] Utils.pm:149> WARN - I didn't find a database entry for '__2003' (section 0)
+[363] Utils.pm:149> WARN - I didn't find a database entry for 'BigResults1' (section 0)
+[363] Utils.pm:149> WARN - I didn't find a database entry for 'BigResults2' (section 0)
+[382] UCollate.pm:66> INFO - Overriding locale 'ru-RU' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[382] UCollate.pm:66> INFO - Overriding locale 'ru-RU' defaults 'variable = shifted' with 'variable = non-ignorable'
+[383] Biber.pm:3306> INFO - Sorting list 'none/global/' of type 'entry' with scheme 'none' and locale 'ru-RU'
+[390] bbl.pm:526> INFO - Writing 'templateMOAISbach17.bbl' with encoding 'UTF-8'
+[392] bbl.pm:619> INFO - Output to templateMOAISbach17.bbl
+[393] Biber.pm:108> INFO - WARNINGS: 4

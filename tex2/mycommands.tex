@@ -19,5 +19,7 @@
 \pretocmd{\chapter}{\addtocounter{totfigures}{\value{figure}}}{}{}
 \pretocmd{\chapter}{\addtocounter{tottables}{\value{table}}}{}{}
 \pretocmd{\bibitem}{\addtocounter{totreferences}{1}}{}{}
-
+\usepackage{import}
+\newcommand{\includechapter}[1]{\subimport{#1/}{#1}}
 \usepackage{listings}
+\usepackage{placeins}

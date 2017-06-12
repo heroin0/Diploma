@@ -19,92 +19,7 @@
 
 \refsection{0}
   \sortlist[entry]{none/global/}
-    \entry{�������1897}{article}{}
-      \name{author}{1}{}{%
-        {{hash=4b16cdd5e4c92fc9a005c8d9f503a731}{%
-           family={Mathews},
-           family_i={M\bibinitperiod},
-           given={G.B.},
-           given_i={G\bibinitperiod}}}%
-      }
-      \strng{namehash}{4b16cdd5e4c92fc9a005c8d9f503a731}
-      \strng{fullhash}{4b16cdd5e4c92fc9a005c8d9f503a731}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Proceedings of the London Mathematical Society}
-      \field{title}{On the partition of numbers}
-      \field{year}{1897}
-      \field{number}{28}
-      \range{number}{1}
-      \field{pages}{486\bibrangedash 490}
-      \range{pages}{5}
-    \endentry
-    \entry{��������1967}{article}{}
-      \name{author}{1}{}{%
-        {{hash=404283f7c829d5106c4b5d0380d5b51b}{%
-           family={C.C.Petersen},
-           family_i={C\bibinitperiod}}}%
-      }
-      \strng{namehash}{404283f7c829d5106c4b5d0380d5b51b}
-      \strng{fullhash}{404283f7c829d5106c4b5d0380d5b51b}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Management Science}
-      \field{title}{Computational experience with variants of the Balas algorithm applied to the selection of R\&D projects}
-      \field{year}{1967}
-      \field{number}{13(9)}
-      \range{number}{-1}
-      \field{pages}{736\bibrangedash 750}
-      \range{pages}{15}
-    \endentry
-    \entry{������1970}{book}{}
-      \name{author}{1}{}{%
-        {{hash=ac7ec296e4ce46761ef891cd15995b80}{%
-           family={Alex},
-           family_i={A\bibinitperiod},
-           given={Fraser},
-           given_i={F\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {McGraw-Hill}%
-      }
-      \strng{namehash}{ac7ec296e4ce46761ef891cd15995b80}
-      \strng{fullhash}{ac7ec296e4ce46761ef891cd15995b80}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Computer Models in Genetics}
-      \field{year}{1970}
-    \endentry
-    \entry{��1998}{article}{}
-      \name{author}{2}{}{%
-        {{hash=14ceecf877b49ca5103c8e06e95136a5}{%
-           family={P.C.Chu},
-           family_i={P\bibinitperiod}}}%
-        {{hash=399b2def08d8bc435dd45f3cb8fed28d}{%
-           family={J.E.Beasley},
-           family_i={J\bibinitperiod}}}%
-      }
-      \strng{namehash}{c2b52d2349e36bb5bfd7262d9b33d360}
-      \strng{fullhash}{c2b52d2349e36bb5bfd7262d9b33d360}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Heuristics}
-      \field{title}{A genetic algorithm for the multidimensional knapsack problem}
-      \field{year}{1998}
-      \field{pages}{63\bibrangedash 86}
-      \range{pages}{24}
-      \field{volume}{4}
-      \range{volume}{1}
-    \endentry
-    \entry{�����1982}{article}{}
+    \entry{Гэвиш1982}{article}{}
       \name{author}{2}{}{%
         {{hash=335074c02d9174477f22cac454eab2c8}{%
            family={Gavish},
@@ -128,10 +43,10 @@
       \field{year}{1982}
       \field{number}{31}
       \range{number}{1}
-      \field{pages}{215�231}
-      \range{pages}{-1}
+      \field{pages}{215\bibrangedash 231}
+      \range{pages}{17}
     \endentry
-    \entry{���1979}{article}{}
+    \entry{Ших1979}{article}{}
       \name{author}{1}{}{%
         {{hash=4ec6944b4c5b8c0c451b5087b1e9f030}{%
            family={Shih},
@@ -150,10 +65,10 @@
       \field{year}{1979}
       \field{number}{30}
       \range{number}{1}
-      \field{pages}{369�378}
-      \range{pages}{-1}
+      \field{pages}{369\bibrangedash 378}
+      \range{pages}{10}
     \endentry
-    \entry{������1966}{article}{}
+    \entry{Гилмор1966}{article}{}
       \name{author}{2}{}{%
         {{hash=2b1a4fcadfa6e9eea9d094f468a3b2fc}{%
            family={Gilmore},
@@ -178,7 +93,96 @@
       \field{number}{14}
       \range{number}{1}
     \endentry
+    \entry{Мэттьюс1897}{article}{}
+      \name{author}{1}{}{%
+        {{hash=4b16cdd5e4c92fc9a005c8d9f503a731}{%
+           family={Mathews},
+           family_i={M\bibinitperiod},
+           given={G.B.},
+           given_i={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{4b16cdd5e4c92fc9a005c8d9f503a731}
+      \strng{fullhash}{4b16cdd5e4c92fc9a005c8d9f503a731}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the London Mathematical Society}
+      \field{title}{On the partition of numbers}
+      \field{year}{1897}
+      \field{number}{28}
+      \range{number}{1}
+      \field{pages}{486\bibrangedash 490}
+      \range{pages}{5}
+    \endentry
+    \entry{Петерсен1967}{article}{}
+      \name{author}{1}{}{%
+        {{hash=404283f7c829d5106c4b5d0380d5b51b}{%
+           family={C.C.Petersen},
+           family_i={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{404283f7c829d5106c4b5d0380d5b51b}
+      \strng{fullhash}{404283f7c829d5106c4b5d0380d5b51b}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Management Science}
+      \field{title}{Computational experience with variants of the Balas algorithm applied to the selection of R\&D projects}
+      \field{year}{1967}
+      \field{number}{13(9)}
+      \range{number}{-1}
+      \field{pages}{736\bibrangedash 750}
+      \range{pages}{15}
+    \endentry
+    \entry{Фразер1970}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ac7ec296e4ce46761ef891cd15995b80}{%
+           family={Alex},
+           family_i={A\bibinitperiod},
+           given={Fraser},
+           given_i={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {McGraw-Hill}%
+      }
+      \strng{namehash}{ac7ec296e4ce46761ef891cd15995b80}
+      \strng{fullhash}{ac7ec296e4ce46761ef891cd15995b80}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Computer Models in Genetics}
+      \field{year}{1970}
+    \endentry
+    \entry{Чу1998}{article}{}
+      \name{author}{2}{}{%
+        {{hash=14ceecf877b49ca5103c8e06e95136a5}{%
+           family={P.C.Chu},
+           family_i={P\bibinitperiod}}}%
+        {{hash=399b2def08d8bc435dd45f3cb8fed28d}{%
+           family={J.E.Beasley},
+           family_i={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{c2b52d2349e36bb5bfd7262d9b33d360}
+      \strng{fullhash}{c2b52d2349e36bb5bfd7262d9b33d360}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Heuristics}
+      \field{title}{A genetic algorithm for the multidimensional knapsack problem}
+      \field{year}{1998}
+      \field{pages}{63\bibrangedash 86}
+      \range{pages}{24}
+      \field{volume}{4}
+      \range{volume}{1}
+    \endentry
   \endsortlist
+  \missing{BigResults1}
+  \missing{__2003}
+  \missing{BigResults2}
+  \missing{__2010}
 \endrefsection
 \endinput
 

@@ -86,8 +86,34 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {8}Формулы}{25}{chapter.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{ЗАКЛЮЧЕНИЕ}{26}{chapter*.7}
+\contentsline {chapter}{\numberline {9}Теоретическая часть}{26}{chapter.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{ПРИЛОЖЕНИЯ}{28}{appendix*.9}
+\contentsline {section}{\numberline {9.1}Задача о многомерном рюкзаке}{26}{section.9.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {A}Исходный код программы}{29}{appendix.A}
+\contentsline {section}{\numberline {9.2}Генетические алгоритмы}{26}{section.9.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.2.1}Этапы работы алгоритма}{27}{subsection.9.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.2.2}Выбор этапов}{28}{subsection.9.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.2.3}Дополнения алгоритма}{29}{subsection.9.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {10}Практическая часть}{30}{chapter.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10.1}Наборы тестов}{30}{section.10.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10.2}Первый набор тестов}{31}{section.10.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.2.1}Мутация в одной позиции}{31}{subsection.10.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.2.2}Инверсионная мутация}{32}{subsection.10.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.2.3}Промежуточные выводы}{33}{subsection.10.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10.3}Второй набор тестов}{33}{section.10.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{ЗАКЛЮЧЕНИЕ}{36}{chapter*.17}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{ПРИЛОЖЕНИЯ}{38}{appendix*.19}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {A}Исходный код программы}{39}{appendix.A}

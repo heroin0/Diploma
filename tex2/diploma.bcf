@@ -3249,23 +3249,13 @@
     <bcf:citekey order="1">Гэвиш1982</bcf:citekey>
     <bcf:citekey order="2">Ших1979</bcf:citekey>
     <bcf:citekey order="3">Гилмор1966</bcf:citekey>
-    <bcf:citekey order="4">__2010</bcf:citekey>
-    <bcf:citekey order="5">__2003</bcf:citekey>
-    <bcf:citekey order="6">__2010</bcf:citekey>
-    <bcf:citekey order="7">__2010</bcf:citekey>
-    <bcf:citekey order="8">__2003</bcf:citekey>
-    <bcf:citekey order="9">__2010</bcf:citekey>
-    <bcf:citekey order="10">__2010</bcf:citekey>
-    <bcf:citekey order="11">__2010</bcf:citekey>
-    <bcf:citekey order="12">__2003</bcf:citekey>
-    <bcf:citekey order="13">__2010</bcf:citekey>
-    <bcf:citekey order="14">Мэттьюс1897</bcf:citekey>
-    <bcf:citekey order="15">Петерсен1967</bcf:citekey>
-    <bcf:citekey order="16">Фразер1970</bcf:citekey>
-    <bcf:citekey order="17">Петерсен1967</bcf:citekey>
-    <bcf:citekey order="18">Чу1998</bcf:citekey>
-    <bcf:citekey order="19">BigResults1</bcf:citekey>
-    <bcf:citekey order="20">BigResults2</bcf:citekey>
+    <bcf:citekey order="4">Мэттьюс1897</bcf:citekey>
+    <bcf:citekey order="5">Петерсен1967</bcf:citekey>
+    <bcf:citekey order="6">Фразер1970</bcf:citekey>
+    <bcf:citekey order="7">Петерсен1967</bcf:citekey>
+    <bcf:citekey order="8">Чу1998</bcf:citekey>
+    <bcf:citekey order="9">BigResults1</bcf:citekey>
+    <bcf:citekey order="10">BigResults2</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="none/global/" type="entry" sortscheme="none" sortnamekeyscheme="global" labelprefix="">
   <bcf:sorting>
