@@ -1,0 +1,17 @@
+[0] Config.pm:343> INFO - This is Biber 2.5
+[1] Config.pm:346> INFO - Logfile is 'diploma.blg'
+[70] biber-MSWIN32:290> INFO - === 
+[115] Biber.pm:351> INFO - Reading 'diploma.bcf'
+[396] Biber.pm:776> INFO - Found 9 citekeys in bib section 0
+[423] Biber.pm:3493> INFO - Processing section 0
+[450] Biber.pm:3657> INFO - Looking for bibtex format file 'library.bib' for section 0
+[456] bibtex.pm:1187> INFO - Decoding LaTeX character macros into UTF-8
+[458] bibtex.pm:1048> INFO - Found BibTeX data source 'library.bib'
+[478] Utils.pm:149> WARN - I didn't find a database entry for 'BigResults1' (section 0)
+[478] Utils.pm:149> WARN - I didn't find a database entry for 'BigResults2' (section 0)
+[501] UCollate.pm:66> INFO - Overriding locale 'ru-RU' defaults 'variable = shifted' with 'variable = non-ignorable'
+[501] UCollate.pm:66> INFO - Overriding locale 'ru-RU' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[501] Biber.pm:3306> INFO - Sorting list 'none/global/' of type 'entry' with scheme 'none' and locale 'ru-RU'
+[510] bbl.pm:526> INFO - Writing 'diploma.bbl' with encoding 'UTF-8'
+[511] bbl.pm:619> INFO - Output to diploma.bbl
+[512] Biber.pm:108> INFO - WARNINGS: 2
