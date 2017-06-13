@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/W32TeX) (preloaded format=xelatex 2017.3.22)  13 JUN 2017 06:25
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/W32TeX) (preloaded format=xelatex 2017.3.22)  13 JUN 2017 07:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1709,93 +1709,92 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--9
  []
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 22.
+(babel)             in language  on input line 23.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 22.
+(babel)             in language  on input line 23.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 24.
+(babel)             in language  on input line 25.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 24.
+(babel)             in language  on input line 25.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 24.
+(babel)             in language  on input line 25.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 24.
+(babel)             in language  on input line 25.
 [6
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 24--25
-
- []
-
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 35.
+(babel)             in language  on input line 36.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 35.
+(babel)             in language  on input line 36.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 35.
+(babel)             in language  on input line 36.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 35.
-[7]
+(babel)             in language  on input line 36.
+ [7]
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 45.
+(babel)             in language  on input line 40.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 45.
+(babel)             in language  on input line 40.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 42.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 42.
 
-Overfull \hbox (10.1596pt too wide) in paragraph at lines 47--51
+Overfull \hbox (10.1596pt too wide) in paragraph at lines 43--47
 \EU1/TimesNewRoman(0)/m/n/14.4 ском алгоритме рассматривается популяция возможн
 ых решений (особей,фенотипов),
  []
 
 
-Overfull \hbox (66.27483pt too wide) in paragraph at lines 47--51
+Overfull \hbox (66.27483pt too wide) in paragraph at lines 43--47
 \EU1/TimesNewRoman(0)/m/n/14.4 лучение лучших решений. У каждого возможного реш
 ения существует набор свойств(генотип),
  []
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 58.
+(babel)             in language  on input line 52.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 58.
+(babel)             in language  on input line 52.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 58.
+(babel)             in language  on input line 52.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 58.
+(babel)             in language  on input line 52.
 [8]
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 64.
+(babel)             in language  on input line 60.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 64.
+(babel)             in language  on input line 60.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 74.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 74.
 
-Overfull \hbox (0.4426pt too wide) in paragraph at lines 78--78
-|[]\EU1/TimesNewRoman(0)/bx/n/17.28 Выбор параметров алгоритма в приложении к з
-адаче о мно-
- []
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 74.
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 78.
+(babel)             in language  on input line 80.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 78.
+(babel)             in language  on input line 80.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 84.
+(babel)             in language  on input line 80.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 84.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 84.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 84.
+(babel)             in language  on input line 80.
 [9]
 File: ./Pics/1.jpg Graphic file (type QTm)
  <use  "./Pics/1.jpg" >
 File: ./Pics/2.jpg Graphic file (type QTm)
  <use  "./Pics/2.jpg" >
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 100.
+(babel)             in language  on input line 96.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 100.
+(babel)             in language  on input line 96.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 100.
+(babel)             in language  on input line 96.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 100.
+(babel)             in language  on input line 96.
  [10]
 File: ./Pics/3.jpg Graphic file (type QTm)
  <use  "./Pics/3.jpg" >
@@ -1805,20 +1804,24 @@ File: ./Pics/4.jpg Graphic file (type QTm)
 File: ./Pics/5.jpg Graphic file (type QTm)
  <use  "./Pics/5.jpg" >
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 125.
+(babel)             in language  on input line 121.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 125.
+(babel)             in language  on input line 121.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 125.
+(babel)             in language  on input line 121.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 125.
+(babel)             in language  on input line 121.
  [11]
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 128.
+(babel)             in language  on input line 124.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 128.
-)
-(./SecondChapter/SecondChapter.tex
+(babel)             in language  on input line 124.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 124.
+
+) (./SecondChapter/SecondChapter.tex
 Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining russian shorthand "~
@@ -2025,10 +2028,10 @@ Package logreq Info: Writing requests to 'diploma.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33585 strings out of 493591
- 594264 string characters out of 6146794
- 1187215 words of memory out of 5000000
- 36554 multiletter control sequences out of 15000+600000
+ 33587 strings out of 493591
+ 594275 string characters out of 6146794
+ 1187280 words of memory out of 5000000
+ 36556 multiletter control sequences out of 15000+600000
  7744 words of font info for 58 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
  50i,10n,65p,10453b,5229s stack positions out of 5000i,500n,10000p,200000b,80000s
