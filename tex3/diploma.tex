@@ -1,0 +1,55 @@
+\input{preambule}
+
+%My addings to
+\input{mycommands}
+
+\begin{document} % конец преамбулы, начало документа
+%\maketitle
+\input{abstract}
+
+\cleardoublepage               %  номер страницы в оглавлении не выводится
+\pagenumbering{gobble}         %  номер страницы в оглавлении не выводится
+
+\renewcommand\contentsname{Содержание}
+\tableofcontents
+%Поставьте строку \renewcommand{\contentsname}{Содержание} непосредственно перед командой \tableofcontents,
+
+\cleardoublepage                    %  номер страницы в оглавлении не выводится
+\pagenumbering{arabic}         %  номер страницы в оглавлении не выводится
+
+\setcounter{page}{4}  % номер первой страницы после оглавления
+
+\input{abbriviations}
+\input{intro}
+
+%\chapter*{ОСНОВНАЯ ЧАСТЬ}
+%\addcontentsline{toc}{chapter}{ОСНОВНАЯ ЧАСТЬ}
+\includechapter{FirstChapter}
+\includechapter{SecondChapter}
+
+\input{conclusions}
+
+%\addcontentsline{toc}{section}{Список литературы}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\printbibliography
+[title=Список \\использованных источников]
+\appendix
+\chapter*{ПРИЛОЖЕНИЯ}
+\addcontentsline{toc}{chapter}{ПРИЛОЖЕНИЯ}
+
+\chapter{Исходный код программы}
+\lstset{
+	language=[Sharp]C,
+	%morekeywords={yield,var,get,set,from,select,partial},
+	breaklines=true,
+	basicstyle=\footnotesize\ttfamily}
+\linespread{1}
+\lstinputlisting{./SourceCode/KnapsackConfig.cs}	
+\lstinputlisting{./SourceCode/GeneticalAlgorithm.cs}
+\lstinputlisting{./SourceCode/SetPartition.cs}
+\lstinputlisting{./SourceCode/SetPartitionUtility.cs}
+\lstinputlisting{./SourceCode/Program.cs}
+
+\end{document} % конец документа

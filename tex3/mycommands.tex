@@ -1,0 +1,25 @@
+\usepackage{lastpage}
+\newcounter{totfigures}
+\newcounter{tottables}
+\newcounter{totreferences}
+\makeatletter
+\renewcommand{\@dotsep}{2}
+%\newcommand{\l@likechapter}[2]{{\bfseries\@dottedtocline{0}{0pt}{0pt}{#1}{#2}}}
+\AtEndDocument{%
+	\addtocounter{totfigures}{\value{figure}}%
+	\addtocounter{tottables}{\value{table}}%
+	\immediate\write\@mainaux{%
+		\string\gdef\string\totfig{\number\value{totfigures}}%
+		\string\gdef\string\tottab{\number\value{tottables}}%
+		\string\gdef\string\totref{\number\value{totreferences}}%
+	}%
+}
+
+\makeatother
+\pretocmd{\chapter}{\addtocounter{totfigures}{\value{figure}}}{}{}
+\pretocmd{\chapter}{\addtocounter{tottables}{\value{table}}}{}{}
+\pretocmd{\bibitem}{\addtocounter{totreferences}{1}}{}{}
+\usepackage{import}
+\newcommand{\includechapter}[1]{\subimport{#1/}{#1}}
+\usepackage{listings}
+\usepackage{placeins}
